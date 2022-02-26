@@ -1,5 +1,7 @@
 # Editing the book
 
+A Little change is now visible here. 
+
 The contents of the book are written in **RMarkdown**. You can use any formatting code that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$. Moreover, you can include chunks of R-code, like this:
 
 <pre><code>```{r}
