@@ -1,4 +1,4 @@
-# Examples
+# Examples of fun things!
 
 Here are some examples of other GitBooks for courses; if you want to have your GitBook added to the list, please send a [Pull Request](https://github.com/cjvanlissa/gitbook-demo/pulls) (here's [how to send a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)).
 
